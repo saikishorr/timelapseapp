@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeLapseApp</string>
+    <string name="start_button">Start Time-lapse</string>
+    <string name="stop_button">Stop</string>
+</resources>
